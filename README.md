@@ -19,4 +19,4 @@ Advantages: code is easier to read, and it runs faster. Disadventages: can be ti
 ### How do these pros and cons apply to refactoring the original VBA Scrips.
 As I don’t have much experience with coding, obvious disadvantage for me was the time it took to refactor the code, even though I just created a previous one. obvious advantage was the time it took to run database through. it was almost half the time of original code.
 
-![VBA Challange 2018](https://user-images.githubusercontent.com/116606765/201267795-06052d8e-284b-4292-afd1-0f3dbbe1252a.png)
+P.S. i was not sure which method to use to include images with timers, also was not clear on if i should include image of macros, even thogh they are available in the work book. 
