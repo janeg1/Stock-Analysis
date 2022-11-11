@@ -20,3 +20,4 @@ Advantages: code is easier to read, and it runs faster. Disadventages: can be ti
 As I don’t have much experience with coding, obvious disadvantage for me was the time it took to refactor the code, even though I just created a previous one. obvious advantage was the time it took to run database through. it was almost half the time of original code.
 
 P.S. i was not sure which method to use to include images with timers, also was not clear on if i should include image of macros, even thogh they are available in the work book. 
+P.S.1. also there is an extra work book in this repository, i read throgh Assignment again and it doesnt say to remove it. and resourses folder has images from module 1, am i suppose to remove those too. so was just unclear about those things.
