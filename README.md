@@ -8,6 +8,8 @@ We are given a Data, that represents Green Energy stocks available on the Stock 
 
 ## Results
 When we ran our original code for 2018, it took 0.4804688 seconds. Refactored code took 0.2890625. So almost twice as fast.
+![VBA Challange 2018 Refactrd](https://user-images.githubusercontent.com/116606765/201267660-f8aea8ba-3711-490e-8a02-6ddcd697f186.png)
+![VBA Challange 2018](https://user-images.githubusercontent.com/116606765/201267795-06052d8e-284b-4292-afd1-0f3dbbe1252a.png)
 
 ## Summary
 
@@ -16,3 +18,5 @@ Advantages: code is easier to read, and it runs faster. Disadventages: can be ti
 
 ### How do these pros and cons apply to refactoring the original VBA Scrips.
 As I don’t have much experience with coding, obvious disadvantage for me was the time it took to refactor the code, even though I just created a previous one. obvious advantage was the time it took to run database through. it was almost half the time of original code.
+
+![VBA Challange 2018](https://user-images.githubusercontent.com/116606765/201267795-06052d8e-284b-4292-afd1-0f3dbbe1252a.png)
